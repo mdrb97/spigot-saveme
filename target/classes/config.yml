@@ -1,0 +1,2 @@
+max-backups-to-keep: 10
+seconds-between-backups: 1800

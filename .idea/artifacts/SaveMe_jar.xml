@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SaveMe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SaveMe_jar</output-path>
+    <root id="archive" name="SaveMe.jar">
+      <element id="module-output" name="SaveMe" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-api-1.18.2-R0.1-20220314.203816-19.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
